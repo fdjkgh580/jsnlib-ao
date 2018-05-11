@@ -9,7 +9,7 @@ include_once 'Inputype.php';
 
 class Ao extends \ArrayObject
 {
-    protected $version = "1.1.4";
+    protected $version = "1.2.1";
 
     /**
      * 獲取 ArrayObject 因子
