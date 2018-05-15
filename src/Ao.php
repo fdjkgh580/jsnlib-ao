@@ -1,4 +1,4 @@
-<?
+<?php
 /*
  * 取材自網友 http://bbs.phpchina.com/thread-123682-1-1.html 
  */
